@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Addons\RevitAPITrainig\RevitAPI_Lab2.4.dll"</Assembly>
+    <AddInId>D67FE6F5-52E6-443A-B226-E6DEFD7973C3</AddInId>
+    <FullClassName>RevitAPI_Lab2._4.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Воздуховоды 1го и 2го этажей</Text>
+  </AddIn>
+</RevitAddIns>
